@@ -16,7 +16,7 @@
 		3A8B670A28A02DA20093A590 /* sandbox_storyboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8B670928A02DA20093A590 /* sandbox_storyboardTests.swift */; };
 		3A8B671428A02DA20093A590 /* sandbox_storyboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8B671328A02DA20093A590 /* sandbox_storyboardUITests.swift */; };
 		3A8B671628A02DA20093A590 /* sandbox_storyboardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8B671528A02DA20093A590 /* sandbox_storyboardUITestsLaunchTests.swift */; };
-		3A8B673728A038740093A590 /* TypingDNARecorderMobile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8B673628A038740093A590 /* TypingDNARecorderMobile.swift */; };
+		3AFF8BE128A045EE009E6587 /* TypingDNARecorderMobile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AFF8BE028A045EE009E6587 /* TypingDNARecorderMobile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		3A8B670F28A02DA20093A590 /* sandbox-storyboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sandbox-storyboardUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A8B671328A02DA20093A590 /* sandbox_storyboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sandbox_storyboardUITests.swift; sourceTree = "<group>"; };
 		3A8B671528A02DA20093A590 /* sandbox_storyboardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sandbox_storyboardUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		3A8B673628A038740093A590 /* TypingDNARecorderMobile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TypingDNARecorderMobile.swift; path = "../../TypingDNARecorder-iOS-master/TypingDNARecorderMobile/TypingDNARecorderMobile/TypingDNARecorderMobile.swift"; sourceTree = "<group>"; };
+		3AFF8BE028A045EE009E6587 /* TypingDNARecorderMobile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypingDNARecorderMobile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 		3A8B66F128A02DA10093A590 /* sandbox-storyboard */ = {
 			isa = PBXGroup;
 			children = (
-				3A8B673628A038740093A590 /* TypingDNARecorderMobile.swift */,
+				3AFF8BE028A045EE009E6587 /* TypingDNARecorderMobile.swift */,
 				3A8B66F228A02DA10093A590 /* AppDelegate.swift */,
 				3A8B66F428A02DA10093A590 /* SceneDelegate.swift */,
 				3A8B66F628A02DA10093A590 /* ViewController.swift */,
@@ -261,7 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A8B673728A038740093A590 /* TypingDNARecorderMobile.swift in Sources */,
+				3AFF8BE128A045EE009E6587 /* TypingDNARecorderMobile.swift in Sources */,
 				3A8B66F728A02DA10093A590 /* ViewController.swift in Sources */,
 				3A8B66F328A02DA10093A590 /* AppDelegate.swift in Sources */,
 				3A8B66F528A02DA10093A590 /* SceneDelegate.swift in Sources */,
